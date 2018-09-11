@@ -1,0 +1,24 @@
+{
+  "name": "salesforce-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SF_Authenticate.js",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprix/salesforce-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jprix/salesforce-flow/issues"
+  },
+  "homepage": "https://github.com/jprix/salesforce-flow#readme"
+}
